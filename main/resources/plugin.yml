@@ -1,0 +1,4 @@
+name: WorldSelectCombatMath
+version: '${project.version}'
+main: azuazu3939.worldselectcombatmath.WorldSelectCombatMath
+api-version: 1.17
