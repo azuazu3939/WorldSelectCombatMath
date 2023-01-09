@@ -98,7 +98,6 @@ public class WorldSelectListener implements Listener {
                     }
                     event.setDamage(0.0);
                     event.setDamage(EntityDamageEvent.DamageModifier.ARMOR, finalDamageMath);
-                    damaged.sendMessage("HP" + damaged.getHealth() + "とダメージ量" + finalDamageMath);
                 }
             }
         }
